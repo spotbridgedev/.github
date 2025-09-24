@@ -1,0 +1,11 @@
+{
+    "name": "SpotBridge Deploy Workflow",
+    "description": "Standard deployment workflow for production environments",
+    "iconName": "rocket",
+    "categories": [
+        "Deployment"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}

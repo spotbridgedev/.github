@@ -1,0 +1,11 @@
+{
+    "name": "SpotBridge CI Workflow",
+    "description": "Standard CI workflow for Node.js projects with testing, linting, and building",
+    "iconName": "check-circle",
+    "categories": [
+        "CI"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}

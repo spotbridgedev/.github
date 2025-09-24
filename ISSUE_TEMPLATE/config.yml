@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/orgs/spotbridgedev/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 🔒 Security Issue
+    url: mailto:security@spotbridge.dev
+    about: Please report security vulnerabilities privately via email
+  - name: 📧 Contact
+    url: mailto:contact@spotbridge.dev
+    about: General inquiries and business-related questions
